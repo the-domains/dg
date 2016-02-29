@@ -1,0 +1,28 @@
+name: dg
+favicon: null
+layout_spectrum: 0.8219520126003772
+typography_spectrum: 0.4879340431652963
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.1795104944612831
+  lightness: 0.21984941535629332
+  saturation: 0.3441188493743539
+  rhythmicContrast: 0.09682365041226149
+purpose: []
